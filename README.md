@@ -1,4 +1,13 @@
-## Hi there 👋
+日本のどこかにいるひまじん
+たまにプログラムを書きます:)
+
+[![typograssy](https://typograssy.deno.dev/api?text=おはこんばっわ！)](https://github.com/kawarimidoll/typograssy)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode&perline=3" />
+  </a>
+</p>
 
 <!--
 **mikan711/mikan711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
