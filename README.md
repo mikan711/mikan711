@@ -1,8 +1,6 @@
 日本のどこかにいるひまじん
 たまにプログラムを書きます:)
 
-[![typograssy](https://typograssy.deno.dev/api?text=おはこんばっわ！)](https://github.com/kawarimidoll/typograssy)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode&perline=3" />
